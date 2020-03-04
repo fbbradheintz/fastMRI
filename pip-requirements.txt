@@ -1,0 +1,2 @@
+runstats==1.7.1
+pytorch-lightning==0.6.0
